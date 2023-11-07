@@ -1,0 +1,4 @@
+﻿  W2D4.cpp
+E:\ProgramData\learn\C++\W2D4\W2D4.cpp(43,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\ProgramData\learn\C++\W2D4\W2D4.cpp(44,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  W2D4.vcxproj -> E:\ProgramData\learn\C++\W2D4\x64\Debug\W2D4.exe

@@ -1,0 +1,2 @@
+E:\ProgramData\learn\C++\W1D2\x64\Debug\W1D2.exe
+E:\ProgramData\learn\C++\W1D2-D3\x64\Debug\W1D2.exe
